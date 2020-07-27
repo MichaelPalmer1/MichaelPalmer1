@@ -15,7 +15,7 @@ Scoutr is a framework for exposing a NoSQL database via an API that provides ful
 
 
 ### Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=MichaelPalmer1&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=MichaelPalmer1&count_private=true&show_icons=true)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelPalmer1&hide=java,php)
 
 
