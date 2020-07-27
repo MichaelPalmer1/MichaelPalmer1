@@ -3,6 +3,11 @@
 ### Current Role
 Senior Software Engineer at GE Corporate (2018 - Present)
 
+### Education
+B.S. in Computer Science at Georgia Southern Univerity (2017)
+
+M.S. in Computer Science at Georgia Institute of Technology (Expected Spring 2021)
+
 ### Current Projects
 
 #### [scoutr](https://github.com/GESkunkworks/scoutr) / [scoutr-go](https://github.com/MichaelPalmer1/scoutr-go)
